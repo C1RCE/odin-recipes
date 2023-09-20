@@ -1,0 +1,1 @@
+A project to test HTML skills learned so far. The objective is to make a simple recipe website. 
